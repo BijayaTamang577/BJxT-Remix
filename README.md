@@ -16,10 +16,10 @@ $ git clone https://github.com/BijayaTamang577/BJxT-Remix
 
 $ ls
 
-$ cd T-Remix
+$ cd BJxT-Remix
 
 $ ls
 
 $ chmod +x *
 
-$ bash t-remix.sh
+$ bash BJxT-Remix
