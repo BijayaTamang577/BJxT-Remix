@@ -23,3 +23,8 @@ $ ls
 $ chmod +x *
 
 $ bash BJxT-Remix
+
+
+TO REMOVE THIS TOOL TYPE FOLLOWING COMMAND
+
+ $ uninstall-T-Remix
